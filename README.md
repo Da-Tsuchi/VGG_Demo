@@ -1,6 +1,6 @@
 # VGG Model Demonstration
 
-This repository provides tools for demonstration of VGG model in real time. You will need the weights of the VGG model learned at the [following link](https://github.com/Da-Tsuchi/VGG_Demo.git).
+This repository provides tools for demonstration of VGG model in real time. You will need the weights of the VGG model learned at the [following link](https://github.com/Da-Tsuchi/jikken3_vision_recognition.git).
 
 ## Table of Contents
 
