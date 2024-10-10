@@ -1,6 +1,6 @@
 # VGG Model Demonstration
 
-This repository provides tools for demonstration of VGG model in real time. You will need the weights of the VGG model learned at the [following link](https://github.com/ia-gu/jikken3_vision_recognition/tree/master).
+This repository provides tools for demonstration of VGG model in real time. You will need the weights of the VGG model learned at the [following link](https://github.com/Da-Tsuchi/VGG_Demo.git).
 
 ## Table of Contents
 
@@ -69,6 +69,9 @@ Python usage
    ```bash
 python3 demo.py
 ```
+
+## Acknowledgements
+We would like to express our heartfelt gratitude to **Sota Ito** for their incredible work and dedication in creating this project.
 
 
 
